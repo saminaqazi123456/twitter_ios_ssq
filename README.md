@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *twitter_ios_ssq*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**twitter_ios_ssq** is a basic twitter app to read your tweets.
 
 Time spent: **6** hours spent in total
 
